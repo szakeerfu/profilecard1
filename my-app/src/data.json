@@ -1,0 +1,35 @@
+[
+    
+  {
+   " productId" : "1",
+   "productimg" : "https://www.linkpicture.com/q/pngwing.com-4_10.png",
+   " productName" : "GANIGER",
+   " Brand" :  "NICK",
+   " productDescription ": "GANIGER PURE ACTIVE MICELLER, cleaning water 125ml",
+   " Price ": "7$"
+     
+ },
+    
+  {
+   " productId" : "1",
+   "productimg":"https://www.linkpicture.com/q/pngwing.com-6_1.png",
+   
+   " productName" : "Yellow DRESS",
+   " Brand" :  "NICK",
+   " productDescription ": " GANIGER PURE ACTIVE MICELLER, cleaning water 125ml ",
+   " Price ": "7$"
+     
+ },
+    
+  {
+   " productId" : "1",
+   "productimg":"https://www.linkpicture.com/q/pngwing.com-8_2.png",
+   
+   " productName" : "WATCH",
+   " Brand" :  "NICK",
+   " productDescription ": "GANIGER PURE ACTIVE MICELLER, cleaning water 125ml",
+   " Price ": "7$"
+     
+ }
+ 
+]
